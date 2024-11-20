@@ -1,7 +1,3 @@
-Here's a concise and professional README template for your SQL data cleaning and exploratory data analysis project on post-COVID layoffs:
-
----
-
 # SQL Data Cleaning and EDA: Post-COVID Layoffs (2020 Dataset)
 
 ## Project Overview  
